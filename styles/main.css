@@ -42,7 +42,7 @@ p, span, li{
 
 a{
     text-decoration: none;
-    color: var(--mainLinkColor);
+    color: #000000; 
     font-weight: 500;
 }
 
